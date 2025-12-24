@@ -2,9 +2,8 @@
     "name": "Hosted by Justus",
     "subtitle": "You want the games, here they are",
     "description": "A repo of Supercell games that are specially modified",
-    "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/JustusIcon.JPG",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
+    "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/JustusIcon.JPG?raw=true",
+    "headerURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/NEWCR.png?raw=true",
     "tintColor": "#4185A9",
     "featuredApps": [
         "com.supercell.life"
