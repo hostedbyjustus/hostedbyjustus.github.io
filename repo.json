@@ -63,7 +63,7 @@
             "developerName": "Supercell, RetroRoyale",
             "subtitle": "Relive 2017 Clash Royale",
             "localizedDescription": "If you ever wanted to go back to the good days of Clash Royale, now you can. This client offers you a playable version of 2017s Clash Royale Version 1.9.0.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+            "iconURL": "https://avatars.githubusercontent.com/u/48518835?s=200&v=4",
             "tintColor": "#3660A2",
             "screenshots": {
                 "iphone": [
@@ -91,9 +91,9 @@
             "versions": [
                 {
                     "version": "1.9.0",
-                    "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-                    "localizedDescription": "Bug fixes and performance improvements.",
+                    "date": "2025-12-24T09:00:00-08:00",
+                    "downloadURL": "https://github.com/hostedbyjustus/Clash-Royale-1.9.x-Server-based-on-retroroyale/releases/download/Clients/Clash.Royale.1.9.0.-.iOS.7.0.ipa",
+                    "localizedDescription": "Initial Release. Client unpatched.",
                     "size": 81514,
                     "minOSVersion": "7.0"
                 },
