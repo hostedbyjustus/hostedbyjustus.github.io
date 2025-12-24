@@ -1,7 +1,7 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "name": "Hosted by Justus",
+    "subtitle": "You want the games, here they are",
+    "description": "A repo of Supercell games that are specially modified",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
@@ -12,7 +12,7 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
+            "name": "Spooky POP [Offline]",
             "bundleIdentifier": "com.example.myapp",
             "developerName": "Example Developer",
             "subtitle": "An awesome app.",
