@@ -321,7 +321,7 @@
                     "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
                 }
             }
-    ],
+           
     "news": [
         {
             "title": "Repo Created",
