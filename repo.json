@@ -2,7 +2,7 @@
     "name": "Hosted by Justus",
     "subtitle": "You want the games, here they are",
     "description": "A repo of Supercell games that are specially modified",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/JustusIcon.JPG",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
     "tintColor": "#4185A9",
@@ -17,7 +17,7 @@
             "developerName": "Example Developer",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/SpookyPOP%20Icon.PNG",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
