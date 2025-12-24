@@ -12,15 +12,15 @@
     ],
     "apps": [
         {
-            "name": "Spooky POP [Offline]",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
+            "name": "Smash Land [Revived]",
+            "bundleIdentifier": "com.supercell.myapp",
+            "developerName": "Supercell, kylecourounis, VadPovelitel",
             "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "localizedDescription": "Smash Land is back in Action thanks to the amazing kylecourounis and of course the just as awesome server provider VadPovelitel. Fling your characters and get to the end in this 2015 classic. THIS PROJECT IS NOT AFFILIATED WITH SUPERCELL. THIS REPOSITORY IS ALSO NOT THE MAIN SOURCE BEHIND THIS FAN PROJECT. THE BRAND SMASH LAND IS OWNED BY SUPERCELL.",
             "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/SpookyPOP%20Icon.PNG",
-            "tintColor": "#5CA399",
+            "tintColor": "#D400FF",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://t.me/smashlandgame/23",
                 "https://example.com/myapp_portrait_screenshot2.png",
                 {
                     "imageURL": "https://example.com/myapp_landscape_screenshot.png",
@@ -33,7 +33,7 @@
                     "version": "1.1",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "downloadURL": "https://t.me/smashlandgame/69",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
