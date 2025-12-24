@@ -14,8 +14,8 @@
             "name": "Smash Land [Revived]",
             "bundleIdentifier": "com.supercell.life",
             "developerName": "Supercell, kylecourounis, VadPovelitel",
-            "subtitle": "An awesome app.",
-            "localizedDescription": "Smash Land is back in Action thanks to the amazing kylecourounis and of course the just as awesome server provider VadPovelitel. Fling your characters and get to the end in this 2015 classic. \n THIS PROJECT IS NOT AFFILIATED WITH SUPERCELL. THIS REPOSITORY IS ALSO NOT THE MAIN SOURCE BEHIND THIS FAN PROJECT. THE BRAND SMASH LAND IS OWNED BY SUPERCELL.",
+            "subtitle": "Now on SideStore/AltStore!",
+            "localizedDescription": "Smash Land is back in Action thanks to the amazing kylecourounis and of course the just as awesome server provider VadPovelitel. Fling your characters and get to the end in this 2015 classic.\n\nTHIS PROJECT IS NOT AFFILIATED WITH SUPERCELL. THIS REPOSITORY IS ALSO NOT THE MAIN SOURCE BEHIND THIS FAN PROJECT. THE BRAND SMASH LAND IS OWNED BY SUPERCELL.",
             "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/SpookyPOP%20Icon.PNG",
             "tintColor": "#D400FF",
             "screenshots": [
@@ -30,20 +30,13 @@
             ],
             "versions": [
                 {
-                    "version": "1.1",
+                    "version": "0.1620",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
                     "downloadURL": "https://t.me/smashlandgame/69",
                     "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
+                    "minOSVersion": "7.0"
                 },
-                {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
-                }
             ],
             "appPermissions": {
                 "entitlements": [
