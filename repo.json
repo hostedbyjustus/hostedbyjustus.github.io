@@ -57,7 +57,7 @@
                 }
             }
         },
-        {
+       [ {
             "name": "Clash Royale [Version 2.1.5]",
             "bundleIdentifier": "com.example.anotherapp",
             "developerName": "Supercell",
@@ -125,7 +125,7 @@
             }
         }
         
-       { "name": "Clash Royale [Version 1.9.0]",
+      [ { "name": "Clash Royale [Version 1.9.0]",
             "bundleIdentifier": "com.example.anotherapp",
             "developerName": "Supercell, RetroRoyale",
             "subtitle": "Relive ClashRoyale nostalgia by going back to 2017.",
@@ -190,7 +190,7 @@
                 }
             }
            
-      {  "name": "Clash of Clans [Version 1.70]",
+   [ {  "name": "Clash of Clans [Version 1.70]",
             "bundleIdentifier": "com.example.anotherapp",
             "developerName": "Example Developer",
             "subtitle": "Another awesome app.",
@@ -256,7 +256,7 @@
                 }
             }
 
-            {  "name": "Smash Land [Revived]",
+        [ {  "name": "Smash Land [Revived]",
             "bundleIdentifier": "com.example.anotherapp",
             "developerName": "Supercell",
             "subtitle": "Another awesome app.",
