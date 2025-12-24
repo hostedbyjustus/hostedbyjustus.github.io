@@ -59,7 +59,7 @@
         },
         {
             "name": "Clash Royale [Version 1.9.0]",
-            "bundleIdentifier": "com.example.anotherapp",
+            "bundleIdentifier": "com.supercell.scroll",
             "developerName": "Supercell, RetroRoyale",
             "subtitle": "Relive 2017 Clash Royale",
             "localizedDescription": "If you ever wanted to go back to the good days of Clash Royale, now you can. This client offers you a playable version of 2017s Clash Royale Version 1.9.0.",
