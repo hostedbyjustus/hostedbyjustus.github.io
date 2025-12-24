@@ -21,11 +21,6 @@
                 "https://raw.githubusercontent.com/hostedbyjustus/hostedbyjustus.github.io/refs/heads/main/assets/SmashLand/SmashLandScreenshot1.png",
                 "https://raw.githubusercontent.com/hostedbyjustus/hostedbyjustus.github.io/refs/heads/main/assets/SmashLand/SmashLandScreenshot2.png",
                 "https://raw.githubusercontent.com/hostedbyjustus/hostedbyjustus.github.io/refs/heads/main/assets/SmashLand/SmashLandScreenshot3.png",
-                {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-                    "width": 2556,
-                    "height": 1179
-                }
             ],
             "versions": [
                 {
