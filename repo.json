@@ -28,7 +28,7 @@
                     "version": "0.1620",
                     "date": "2025-12-25T00:20:00.083Z",
                     "size": 42116,
-                    "downloadURL": "https://drive.google.com/uc?export=download&id=1MQzO-ayrxdoxnZSgr_5h_iIAB38pAX2n",
+                    "downloadURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/releases/download/taggytag/5HPR84E2S.ipa",
                     "localizedDescription": "Initial Upload (last updated: 12.10.2025)",
                     "minOSVersion": "7.0"
                 },
@@ -49,8 +49,8 @@
             "name": "Clash Royale [Version 1.9.0]",
             "bundleIdentifier": "com.supercell.scroll",
             "developerName": "Supercell, RetroRoyale",
-            "subtitle": "Relive 2017 Clash Royale",
-            "localizedDescription": "If you ever wanted to go back to the good days of Clash Royale, now you can. This client offers you a playable version of 2017s Clash Royale Version 1.9.0.",
+            "subtitle": "",
+            "localizedDescription": "Unavailable at the moment",
             "iconURL": "https://avatars.githubusercontent.com/u/48518835?s=200&v=4",
             "tintColor": "#3660A2",
             "screenshots": {
