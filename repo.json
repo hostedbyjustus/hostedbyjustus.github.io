@@ -1,6 +1,6 @@
 {
     "name": "Hosted by Justus",
-    "subtitle": "You want the games, here they are",
+    "subtitle": "Now being able to play even faster...",
     "description": "A repo of Supercell games that are specially modified",
     "iconURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/JustusIcon.JPG?raw=true",
     "headerURL": "https://github.com/hostedbyjustus/hostedbyjustus.github.io/blob/main/assets/NEWCR.png?raw=true",
@@ -14,7 +14,7 @@
             "bundleIdentifier": "com.supercell.life",
             "developerName": "Supercell, kylecourounis, VadPovelitel",
             "subtitle": "Now on SideStore/AltStore!",
-            "localizedDescription": "Smash Land is back in Action thanks to the amazing kylecourounis and of course the just as awesome server provider VadPovelitel. Fling your characters and get to the end in this 2015 classic.\n\nTHIS PROJECT IS NOT AFFILIATED WITH SUPERCELL. THIS REPOSITORY IS ALSO NOT THE MAIN SOURCE BEHIND THIS FAN PROJECT.\nTHE BRAND SMASH LAND IS OWNED BY SUPERCELL.\n\n- Support for the server as well as the original project source: https://t.me/smashlandgame -",
+            "localizedDescription": "- Support for the server as well as the original project source: https://t.me/smashlandgame\n\nSmash Land is back in Action thanks to the amazing kylecourounis and of course the just as awesome server provider VadPovelitel. Fling your characters and get to the end in this 2015 classic.\n\nTHIS PROJECT IS NOT AFFILIATED WITH SUPERCELL. THIS REPOSITORY IS ALSO NOT THE MAIN SOURCE BEHIND THIS FAN PROJECT.\nTHE BRAND SMASH LAND IS OWNED BY SUPERCELL.",
             "iconURL": "https://yt3.googleusercontent.com/ytc/AIdro_m2QveML6wpLTEn4Bpag4KN3cDldfSIvpRMlJDkFeV1eA=s160-c-k-c0x00ffffff-no-rj",
             "category": "games",
             "tintColor": "#D400FF",
@@ -115,24 +115,12 @@
     ],
     "news": [
         {
-            "title": "New Feature Announcement",
+            "title": "Smash Land [Revival] by kylecourounis and VadPovelitel launched",
             "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
+            "caption": "This means we're very hyped...",
+            "date": "2025-12-25",
+            "tintColor": "#D400FF",
             "notify": true,
-            "url": "https://example.com/new_feature_details"
         },
-        {
-            "title": "App Update Available",
-            "identifier": "app_update",
-            "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
-            "tintColor": "#3660A2",
-            "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "com.example.myapp"
-        }
     ]
 }
